@@ -14,9 +14,12 @@
 #### Libraries and Frameworks used:
 
 `React JS`,
-`React Router DOM`,
-`Axios`,
-`React Icons` <br>
+`Tailwind`,
+`Solidity`,
+`Ethereum`,
+`Blockchain`,
+`MetaMask`
+<br>
 
 #### Learned: <br>
 
@@ -28,7 +31,7 @@
    Demo URL:
    [Crypto Transfer]()
    <br><br>
-   Follow Me:
+   Follow Me:<br>
    [![Twitter](https://www.prchecker.info/free-icons/64x64/twitter_64_px.png)](https://twitter.com/fit_enthusiast_)
 
 <br><br>
@@ -37,6 +40,6 @@
 
 [![JavaScript Mastery](https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj)](https://youtu.be/Wn_Kb3MR_cU)
 
-%[https://twitter.com/jsmasterypro]
+[https://twitter.com/jsmasterypro]()
 <br>
 Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto.
