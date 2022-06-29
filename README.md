@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Crypto Transfer App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Modern and Real World Web 3.0 Blockchain Application
 
-## Available Scripts
+#### Key Features:
 
-In the project directory, you can run:
+1. Modern Design
+2. Blockchain Connection
+3. MetaMask Pairing
+4. Writing Solidity Code
+5. Interaction with Smart Contract
+6. Sending Ethereum through the Blockchain Network
 
-### `npm start`
+#### Libraries and Frameworks used:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+`React JS`,
+`React Router DOM`,
+`Axios`,
+`React Icons` <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Learned: <br>
 
-### `npm test`
+1. How to connect regular React JS application to the Blockchain and paring to the Ethereum wallet using MetaMask.
+2. How to write smart contracts on Ethereum Network using the Solidity programming language.
+3. Using these technologies, built full fledge Web 3.0 application that allows users to send transactions through the Blockchain.
+4. Each transactions will be paired with a GIF, and it will be stored forever on the Blockchain.  
+   <br><br>
+   Demo URL:
+   [Crypto Transfer]()
+   <br><br>
+   Follow Me:
+   [![Twitter](https://www.prchecker.info/free-icons/64x64/twitter_64_px.png)](https://twitter.com/fit_enthusiast_)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br><br>
 
-### `npm run build`
+###### Resource & Special Thanks To:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![JavaScript Mastery](https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj)](https://youtu.be/Wn_Kb3MR_cU)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+%[https://twitter.com/jsmasterypro]
+<br>
+Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto.
