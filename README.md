@@ -38,8 +38,7 @@
 
 ###### Resource & Special Thanks To:
 
-[![JavaScript Mastery](https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj)](https://youtu.be/Wn_Kb3MR_cU)
+[![JavaScript Mastery](https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj)](https://twitter.com/jsmasterypro)
 
-[https://twitter.com/jsmasterypro]()
 <br>
-Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto.
+[Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://youtu.be/Wn_Kb3MR_cU)
