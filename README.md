@@ -17,6 +17,8 @@
 `Tailwind CSS`,
 `Solidity`,
 `Ethers JS`,
+`Hardhat`,
+`Alchemy`,
 `Blockchain`,
 `MetaMask`
 <br>
@@ -27,13 +29,18 @@
 2. How to write smart contracts on Ethereum Network using the Solidity programming language.
 3. Using these technologies, built full fledge Web 3.0 application that allows users to send transactions through the Blockchain.
 4. Each transactions will be paired with a GIF, and it will be stored forever on the Blockchain.  
-<br><br>
+   <br><br>
+
 ###### Demo URL:
+
 [Crypto Transfer](https://crypto-transfer-psi.vercel.app/)
 <br><br>
+
 ###### Let's Connect:<br>
+
 [![Twitter](https://www.prchecker.info/free-icons/64x64/twitter_64_px.png)](https://twitter.com/fit_enthusiast_)
 <br><br>
+
 ###### Resource & Special Thanks To:
 
 [![JavaScript Mastery](https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj)](https://twitter.com/jsmasterypro)
