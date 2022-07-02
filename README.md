@@ -47,4 +47,4 @@
 
 <br>
 
-[Modern Web 3.0 Blockchain App - Solidity, Smart Contracts, Crypto](https://youtu.be/Wn_Kb3MR_cU)
+Modern Web 3.0 Blockchain App - Solidity, Smart Contracts, Crypto
