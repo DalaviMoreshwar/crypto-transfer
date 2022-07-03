@@ -5,6 +5,7 @@ import { contractABI, contractAddress } from "./../utils/constants";
 export const TransactionContext = React.createContext();
 
 const { ethereum } = window;
+console.log(ethereum);
 
 const getEthereumContract = () => {
   const provider = new ethers.providers.Web3Provider(ethereum);
@@ -20,6 +21,7 @@ const getEthereumContract = () => {
 
 export const TransactionProvider = ({ children }) => {
   const [currentAccount, setCurrentAccount] = useState("");
+  const [balance, setBalance] = useState(null);
   const [formData, setFormData] = useState({
     addressTo: "",
     amount: "",
@@ -73,7 +75,9 @@ export const TransactionProvider = ({ children }) => {
       const accounts = await ethereum.request({ method: "eth_accounts" });
 
       if (accounts.length) {
-        setCurrentAccount(accounts[0]); //get all transactions
+        setCurrentAccount(accounts[0]);
+        checkBalance(accounts[0]); // get account balance
+        //get all transactions
         getAllTransactions();
       } else console.log("No accounts found!");
     } catch (error) {
@@ -101,11 +105,23 @@ export const TransactionProvider = ({ children }) => {
       const accounts = await ethereum.request({
         method: "eth_requestAccounts",
       });
+      checkBalance(accounts[0]); // get account balance
       setCurrentAccount(accounts[0]);
     } catch (error) {
       console.error(error);
       throw new Error("No Ethereum Object.");
     }
+  };
+
+  const checkBalance = async (_address) => {
+    const bal = await ethereum
+      .request({
+        method: "eth_getBalance",
+        params: [_address, "latest"],
+      })
+      .then((bal) => ethers.utils.formatEther(bal));
+
+    setBalance(bal);
   };
 
   const sendTransaction = async () => {
@@ -164,6 +180,7 @@ export const TransactionProvider = ({ children }) => {
       value={{
         connectWallet,
         currentAccount,
+        balance,
         formData,
         setFormData,
         handleChange,
